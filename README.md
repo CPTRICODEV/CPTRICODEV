@@ -47,15 +47,13 @@ This is a big project that will be the new big discord bot
 
 <br/> 
 <p>
-
-  <img alt= "stats card" height="512px" width="512px" src="https://github-readme-stats.vercel.app/api?username=CPTRICODEV&theme=cobalt&show_icons=true&count_private=true" />
-
+<a align= "center" href="https://github.com/CPTRICODEV">
+<img alt= "stats card" height="512px" width="512px" src="https://github-readme-stats.vercel.app/api?username=CPTRICODEV&theme=cobalt&show_icons=true&count_private=true" />
 </p>
 <br/>
-
 <p>
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/CPTRICODEV"/>
 </p>
 
 
-Last edited on: 06/03/2021
+Last edited on: 16/01/2022
