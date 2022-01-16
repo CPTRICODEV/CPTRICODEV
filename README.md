@@ -48,7 +48,6 @@ This is a big project that will be the new big discord bot
 <br/> 
 <p>
 
-<a align= "center" href="https://github.com/CPTRICODEV">
   <img alt= "stats card" height="512px" width="512px" src="https://github-readme-stats.vercel.app/api?username=CPTRICODEV&theme=cobalt&show_icons=true&count_private=true" />
 
 </p>
