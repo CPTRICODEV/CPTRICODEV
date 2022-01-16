@@ -45,10 +45,6 @@ This is a big project that will be the new big discord bot
 </p>
 
 
-
-
-
-
 <br/> 
 <p>
 
