@@ -19,10 +19,6 @@
 
 <h3> 🛠 &nbsp;CPTRICO</h3>
 
-- :space_invader:
-  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-  ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-  ![MSExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -54,7 +50,7 @@ This is a big project that will be the new big discord bot
 
 <p align="center">
 <br>
-<a href="https://discord.gg/UCWCc6vC56"><img src="https://cdn.discordapp.com/attachments/485357955341090825/932356930796666911/Discord-LogoWordmark-Black.png" alt="Discord" /></a>&nbsp;
+<a href="https://discord.gg/UCWCc6vC56"><img src="https://cdn.discordapp.com/attachments/485357955341090825/932358461520478259/Unavngivet.png" alt="Discord" /></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
