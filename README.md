@@ -1,9 +1,9 @@
-![Welcome Banner](banner.gif)
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
+ <h2 align="center">CPTRICODEV GitHub Page</h2>
+ <p align="center">Get dynamically generated GitHub stats on your readmes!</p
 
-
-<img align="left" height="270px" alt="hello_world" src="pic.png" />
-
-<h3> :woman: &nbsp;About Me </h3>
+<h3> :woman: &nbsp;About Me</h3>
 
 - 😄 Pronouns: Her
 - 🔭 I’m currently working on: CT Bots Offcial Dashboard
