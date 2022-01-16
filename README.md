@@ -44,8 +44,8 @@
 ### [ CPTRICO Easy Discord Bot: ](https://github.com/CPTRICODEV/CPTRICODEV)<br>
 A NPM Package that can handle all the hard stuff for you command handler and mutch more.
 
-### [ CT Bots Official DashBoard: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
-
+### [ CT Bots Official DashBoard: ](https://github.com/CPTRICODEV/Shop-Bot)<br>
+This is a big project that will be the new big discord bot
 
 </p>
 
@@ -54,10 +54,7 @@ A NPM Package that can handle all the hard stuff for you command handler and mut
 
 <p align="center">
 <br>
-<a href="https://www.linkedin.com/in/anjcray/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="https://twitter.com/DataOnATangent"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
-<a href="https://dataonatangent.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>&nbsp;
-<a href="mailto:dataonatangent@gmail.com?subject=Hola%20Jiji"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="https://discord.gg/UCWCc6vC56"><img src="https://cdn.discordapp.com/attachments/485357955341090825/932356930796666911/Discord-LogoWordmark-Black.png" alt="Discord" /></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
@@ -66,15 +63,15 @@ A NPM Package that can handle all the hard stuff for you command handler and mut
 <br/> 
 <p>
 
-<a align= "center" href="https://github.com/dataonatangent">
-  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=dataonatangent&theme=cobalt&show_icons=true&count_private=true" />
+<a align= "center" href="https://github.com/CPTRICODEV">
+  <img alt= "stats card" height="270px" width="400" src="https://github-readme-stats.vercel.app/api?username=CPTRICODEV&theme=cobalt&show_icons=true&count_private=true" />
   <img align="right" height="270px" alt="guy" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> </a>
 
 </p>
 <br/>
 
 <p>
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
+    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/CPTRICODEV"/>
 </p>
 
 
