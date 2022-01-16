@@ -54,7 +54,7 @@ This is a big project that will be the new big discord bot
 
 <a align= "center" href="https://github.com/CPTRICODEV">
   <img alt= "stats card" height="512px" width="512px" src="https://github-readme-stats.vercel.app/api?username=CPTRICODEV&theme=cobalt&show_icons=true&count_private=true" />
-  <img align="right" height="512px" alt="guy" width="512" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" /> </a>
+  <img align="right" height="250px" alt="guy" width="250px" src="https://media.giphy.com/media/dZX3AduGrY3uJ7qCsx/giphy.gif" /> </a>
 
 </p>
 <br/>
