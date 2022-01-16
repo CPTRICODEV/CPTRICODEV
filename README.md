@@ -49,7 +49,7 @@ This is a big project that will be the new big discord bot
 
 <p align="center">
 <br>
-<a href="https://discord.gg/UCWCc6vC56"><img src="https://cdn.discordapp.com/attachments/485357955341090825/932358461520478259/Unavngivet.png" alt="Discord" /></a>&nbsp;
+<a href="https://discord.gg/UCWCc6vC56"><img height="270px" width="400" src="https://cdn.discordapp.com/attachments/485357955341090825/932358461520478259/Unavngivet.png" alt="Discord" /></a>&nbsp;
 <!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
 </p>
 
