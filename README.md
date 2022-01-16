@@ -1,7 +1,6 @@
 <p align="center">
  <img width="150px" src="https://cdn.discordapp.com/attachments/485357955341090825/932359659967352892/512x512_CTBots.png" align="center" alt="CPTRICODEV GitHub Page" />
  <h2 align="center">CPTRICODEV GitHub Page</h2>
- <p align="center">Get dynamically generated GitHub stats on your readmes!</p
 
 <h3> :woman: &nbsp;About Me</h3>
 
