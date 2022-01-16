@@ -41,18 +41,11 @@
 <p>
 
 ## 📝 Recent Projects
-### [ Using Dating Profiles to Predict Occupation: ](https://github.com/DataOnATangent/Representative_Profiles_Machine_Learning_Project)<br>
-Machine learning prediction model using logistic regression to predict a users observations using the various features used on their OKCupid dating profile. Data collected from OKCupid.com in the San Francisco Area.<br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy
+### [ CPTRICO Easy Discord Bot: ](https://github.com/CPTRICODEV/CPTRICODEV)<br>
+A NPM Package that can handle all the hard stuff for you command handler and mutch more.
 
-### [ Kings County Housing Price Prediction: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
-Linear regression modeling for housing price prediction in King County, WA, USA, which is the greater Seattle Area. <br>
-Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn
+### [ CT Bots Official DashBoard: ](https://github.com/DataOnATangent/Kings_County_Seattle_Housing_Project)<br>
 
-
-### [ Yelp ETL Project Analysis: ](https://github.com/DataOnATangent/Yelp_API_ETL_Project)<br>
-EDA of Yelp API data for Flatiron School Data Science Immersive Program.<br>
-Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
 
 </p>
 
@@ -84,7 +77,5 @@ Libraries utilized: Pandas, Numpy, Matplotlib, Seaborn
     <img align="center" alt="visitors" src="https://gpvc.arturio.dev/dataonatangent"/>
 </p>
 
------
-Credit: [Jiji C.](https://github.com/DataOnATangent)
 
 Last edited on: 06/03/2021
