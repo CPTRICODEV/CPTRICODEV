@@ -2,17 +2,17 @@
  <img width="150px" src="https://cdn.discordapp.com/attachments/485357955341090825/932359659967352892/512x512_CTBots.png" align="center" alt="CPTRICODEV GitHub Page" />
  <h2 align="center">CPTRICODEV GitHub Page</h2>
 
-<h3> :woman: &nbsp;About Me</h3>
+<h3> :man: &nbsp;About Me</h3>
 
-- 😄 Pronouns: Her
-- 🔭 I’m currently working on: CT Bots Offcial Dashboard
+- 😄 Pronouns: Hr
+- 🔭 I’m currently working on: CT Bots Official Dashboard
 - :heart: My favorite language: Discord.js/Javascript
 - 🌱 I’m currently learning: Html & CSS
-- 👯 I’m always looking to collaborate with: scientist from any field
+- 👯 I’m always looking to collaborate with: scientists from any field
 - 💬 Ask me about: anything, I am happy to help
-- 🌍 I support: CT Bots Offcial
-- 💜 Interests: Gaming, Travel, Coding, hang out with freinds
-- ⚡ Fun fact: My ultimate dream is to hvae my own company. 🖖
+- 🌍 I support: CT Bots Official
+- 💜 Interests: Gaming, Travel, Coding, hanging out with friends
+- ⚡ Fun fact: My ultimate dream is to have my own company. 🖖
 
 <br/>
 
