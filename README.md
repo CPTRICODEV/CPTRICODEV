@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cptricodev" alt="cptricodev" /></a> </p>
 
-- 🔭 I’m currently working on [VeriSheild Discord Bot](verisheild.vercel.app)
+- 🔭 I’m currently working on [VeriSheild Discord Bot] (verisheild.vercel.app)
 
 - 🌱 I’m currently learning **VueJS, SwiftUi & Obejct-C**
 
-- 👨‍💻 All of my projects are available at [https://patrick-jakobsen.vercel.app](Patrick Jakobsen Portfolio)
+- 👨‍💻 All of my projects are available at [https://patrick-jakobsen.vercel.app] (Patrick Jakobsen Portfolio)
 
-- 📝 I regularly write articles on [https://patrick-jakobsen.vercel.app](Patrick Jakobsen Portfolio)
+- 📝 I regularly write articles on [https://patrick-jakobsen.vercel.app] (Patrick Jakobsen Portfolio)
 
 - 💬 Ask me about **react, nextjs, typescript, discord.js, prisma, drizzle, vuejs & vitejs**
 
-- 📄 Know about my experiences [https://patrick-jakobsen.vercel.app](Patrick Jakobsen Portfolio)
+- 📄 Know about my experiences [https://patrick-jakobsen.vercel.app] (Patrick Jakobsen Portfolio)
 
 
 
