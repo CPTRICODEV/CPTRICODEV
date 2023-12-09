@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **VueJS, SwiftUi & Obejct-C**
 
-- 👨‍💻 All of my projects are available at [https://patrick-jakobsen.vercel.app] (Patrick Jakobsen Portfolio)
+- 👨‍💻 All of my projects are available at [https://patrick-jakobsen.vercel.app](Patrick-Jakobsen-Portfolio)
 
-- 📝 I regularly write articles on [https://patrick-jakobsen.vercel.app] (Patrick Jakobsen Portfolio)
+- 📝 I regularly write articles on [https://patrick-jakobsen.vercel.app](Patrick-Jakobsen-Portfolio)
 
 - 💬 Ask me about **react, nextjs, typescript, discord.js, prisma, drizzle, vuejs & vitejs**
 
-- 📄 Know about my experiences [https://patrick-jakobsen.vercel.app] (Patrick Jakobsen Portfolio)
+- 📄 Know about my experiences [https://patrick-jakobsen.vercel.app](Patrick-Jakobsen-Portfolio)
 
 
 
